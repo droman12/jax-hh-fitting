@@ -1,10 +1,10 @@
-# Python
+# python
 __pycache__/
 *.py[cod]
 *.egg-info/
 .pytest_cache/
 
-# Virtual environments
+# virtual environments
 .venv/
 venv/
 env/
@@ -13,12 +13,12 @@ env/
 .jax_cache/
 *.npz
 
-# Editor / OS
+# editor / OS
 .vscode/
 .idea/
 .DS_Store
 *.swp
 
-# Generated outputs (uncomment if you don't want to commit figures/data)
+# generated outputs 
 # figures/
 # data/
