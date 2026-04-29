@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# JAX / ML caches
+.jax_cache/
+*.npz
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Generated outputs (uncomment if you don't want to commit figures/data)
+# figures/
+# data/
