@@ -8,6 +8,9 @@ __pycache__/
 .venv/
 venv/
 env/
+pdm.lock
+pyproject.toml
+.pdm-python
 
 # JAX / ML caches
 .jax_cache/
